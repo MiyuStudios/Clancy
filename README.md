@@ -5,8 +5,6 @@
 
 Um aplicativo criado para o Discord com o intuito de facilitar o engajamento em seu servidor!
 
-
-
 # Políticas de Privacidade
 
 > [!IMPORTANT]
